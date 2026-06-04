@@ -1,22 +1,25 @@
 # Hi 👋 I'm Praduman Dwivedi
 
-💻 MERN Stack Developer  
-🚀 Passionate about Web Development  
-📚 Learning DSA + Full Stack  
+💻 Java Developer | 🚀 DSA Enthusiast | 🌱 Learning Full Stack
 
 ---
 
-## 🌐 Socials
-[Instagram](https://www.instagram.com/fleek_dwiv/?hl=en) • [GitHub](https://github.com/Prad1208) • [LeetCode](https://leetcode.com/u/PradumanDwivedi/)
+## 🔥 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
 ---
 
-## 🛠 Tech Stack
-- HTML, CSS, JavaScript,React
-- 
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prad1208&show_icons=true&theme=tokyonight)
 
 ---
 
-
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Prad1208&theme=tokyonight)
 
 ---
+
+## 🧠 LeetCode
+Add badge or link here
