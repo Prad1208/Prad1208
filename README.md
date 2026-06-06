@@ -22,4 +22,4 @@
 ---
 
 ## 🧠 LeetCode
-https://leetcode.com/u/PradumanDwivedi/
+![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)
