@@ -23,4 +23,5 @@
 
 ## 🧠 LeetCode
 ![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)
-(https://leetcode.com/u/PradumanDwivedi/)
+(https://leetcode.com/u/PradumanDwivedi/) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/PradumanDwivedi?theme=dark&font=baloo&ext=heatmap)
