@@ -26,7 +26,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fleek_dwiv?igsh=c25nb28yYmN4Njhk)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PradumanDwivedi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prad1208)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-brightgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/fleekdwiv)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-brightgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/fleekdwiv)
 
 ---
 
