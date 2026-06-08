@@ -44,10 +44,18 @@
 
 <div align="center">
 
-![Praduman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prad1208&show_icons=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prad1208&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prad1208&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Prad1208&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prad1208&theme=radical&hide_border=true)
+---
 
+</div>
+
+## Leetcode🧠 Stats
+<div align="center">
+![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)
+(https://leetcode.com/u/PradumanDwivedi/) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/PradumanDwivedi?theme=dark&font=baloo&ext=heatmap)
+---
 </div>
