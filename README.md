@@ -44,7 +44,7 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prad1208&show_icons=true&theme=tokyonight)
+)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Prad1208&theme=tokyonight)
 
@@ -54,7 +54,7 @@
 
 ## Leetcode🧠 Stats
 <div align="center">
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/PradumanDwivedi/)
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PradumanDwivedi?theme=dark&font=baloo&ext=heatmap)
 </div>
