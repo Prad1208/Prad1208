@@ -46,7 +46,7 @@
 <div align="center">
 
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Prad1208&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prad1208&theme=tokyonight)
 
 ---
 
@@ -64,5 +64,5 @@
 <div align="center">
 
 
-![GFG Stats](https://geeksforgeeks-stats-api.vercel.app/api?username=fleekdwiv)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-fleekdwiv-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/fleekdwiv)
 </div>
