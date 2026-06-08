@@ -12,10 +12,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student at **AKTU** (BCS-403 OOP with Java)
-- 🌱 Currently mastering **Java DSA** & **Spring Boot**
-- 💼 Working on **JPMorgan Chase Forage** (Midas Core project)
-- 🧠 Active problem-solver on **LeetCode**
+- 🎓 B.Tech CSE Student at **AKTU affiliated Galgotias College of Engineering & Technology** 
+- 🌱 Currently mastering **Java DSA**. **SQL**, **React** & **Spring Framework i.e. Spring and SpringBoot**
+- 💼 Working on **Personal Development and Career Growth** 
+- 🧠 Active problem-solver on **LeetCode & GFG DSA**
 - 🛠️ Building my personal **Portfolio Website**
 - ⚡ Fun fact: I debug faster with a chai in hand ☕
 
@@ -26,6 +26,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fleek_dwiv?igsh=c25nb28yYmN4Njhk)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PradumanDwivedi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prad1208)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-brightgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/fleekdwiv)
 
 ---
 
@@ -44,9 +45,8 @@
 
 <div align="center">
 
-)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Prad1208&theme=tokyonight)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Prad1208&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
@@ -57,4 +57,12 @@
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PradumanDwivedi?theme=dark&font=baloo&ext=heatmap)
+</div>
+
+## GFG🌿 Stats
+
+<div align="center">
+
+
+![GFG Stats](https://geeksforgeeks-stats-api.vercel.app/api?username=fleekdwiv)
 </div>
