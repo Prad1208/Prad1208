@@ -32,6 +32,7 @@
 
 ## 🛠️ Tech Stack
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,20 +43,20 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prad1208&theme=tokyonight)
----
-</div>
-
 ## Leetcode🧠 Stats
+
 <div align="center">
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/PradumanDwivedi?theme=dark&font=baloo&ext=heatmap)
+
 </div>
+
+---
 
 ## GFG🌿 Stats
 
 <div align="center">
+
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-fleekdwiv-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/fleekdwiv)
+
 </div>
