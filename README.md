@@ -23,7 +23,10 @@
 
 ## 🔗 Connect with Me
 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/profile.php?id=61561684799194)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fleek_dwiv?igsh=c25nb28yYmN4Njhk)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fleek_dwiv)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PradumanDwivedi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prad1208)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-brightgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/fleekdwiv)
