@@ -18,6 +18,7 @@
 - 🧠 Active problem-solver on **LeetCode & GFG DSA**
 - 🛠️ Building my personal **Portfolio Website**
 - ⚡ Fun fact: I debug faster with a chai in hand ☕
+- Eudaimonia🎯
 
 ---
 
