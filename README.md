@@ -16,6 +16,11 @@
 - 🌱 Currently mastering **Java DSA**. **SQL**, **React** & **Spring Framework i.e. Spring and SpringBoot**
 - 💼 Working on **Personal Development and Career Growth** 
 - 🧠 Active problem-solver on **LeetCode & GFG DSA**
+- 🎓 B.Tech CSE Student at **AKTU affiliated Galgotias College of Engineering & Technology**
+- 🌱 Currently mastering **Java DSA, SQL, React, Spring Framework & Spring Boot**
+- 💼 Working on **Personal Development and Career Growth**
+- 🧠 Active problem-solver on **LeetCode, GFG & Codeforces**
+- 🛠️ Building my personal **Portfolio Website**
 - ⚡ Fun fact: I debug faster with a chai in hand ☕
 - Eudaimonia🎯
 
@@ -23,32 +28,65 @@
 
 ## 🔗 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradumandwivedi1208@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/profile.php?id=61561684799194)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fleek_dwiv?igsh=c25nb28yYmN4Njhk)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fleek_dwiv)
+<p align="left">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PradumanDwivedi/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prad1208)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-Profile-brightgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/fleekdwiv)
+<a href="mailto:pradumandwivedi1208@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://m.facebook.com/profile.php?id=61561684799194">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/fleek_dwiv">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/fleek_dwiv">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br>
+
+<a href="https://leetcode.com/u/PradumanDwivedi/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Prad1208">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/fleekdwiv">
+<img src="https://img.shields.io/badge/GeeksForGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/fleek_dwiv">
+<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
 
 ---
 
-## Leetcode🧠 Stats
+## LeetCode 🧠 Stats
 
 <div align="center">
 
@@ -58,11 +96,33 @@
 
 ---
 
-## GFG🌿 Stats
+## GFG 🌿 Stats
 
 <div align="center">
 
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-fleekdwiv-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/fleekdwiv)
+<a href="https://www.geeksforgeeks.org/profile/fleekdwiv">
+<img src="https://img.shields.io/badge/GeeksForGeeks-fleekdwiv-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## Codeforces ⚔️ Profile
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/fleek_dwiv">
+<img src="https://img.shields.io/badge/Codeforces-fleek__dwiv-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Keep Learning | Keep Building | Keep Growing 🚀
 
 </div>
 
