@@ -120,13 +120,4 @@
 
 ---
 
-## Codeforces ⚔️ Profile
-
-<div align="center">
-
-<a href="https://codeforces.com/profile/fleek_dwiv">
-<img src="https://img.shields.io/badge/Codeforces-fleek__dwiv-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</div>
 
