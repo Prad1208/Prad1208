@@ -120,14 +120,6 @@
 
 ---
 
-<div align="center">
-
-### 💻 Keep Learning | Keep Building | Keep Growing 🚀
-
-</div>
-
----
-
 ## Codeforces ⚔️ Profile
 
 <div align="center">
