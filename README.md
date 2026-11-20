@@ -15,13 +15,8 @@
 - 🎓 B.Tech CSE Student at **AKTU affiliated Galgotias College of Engineering & Technology** 
 - 🌱 Currently mastering **Java DSA**. **SQL**, **React** & **Spring Framework i.e. Spring and SpringBoot**
 - 💼 Working on **Personal Development and Career Growth** 
-- 🧠 Active problem-solver on **LeetCode & GFG DSA**
-- 🎓 B.Tech CSE Student at **AKTU affiliated Galgotias College of Engineering & Technology**
-- 🌱 Currently mastering **Java DSA, SQL, React, Spring Framework & Spring Boot**
-- 💼 Working on **Personal Development and Career Growth**
 - 🧠 Active problem-solver on **LeetCode, GFG & Codeforces**
-- 🛠️ Building my personal **Portfolio Website**
-- ⚡ Fun fact: I debug faster with a chai in hand ☕
+- 🎓 B.Tech CSE Student at **AKTU affiliated Galgotias College of Engineering & Technology**
 - Eudaimonia🎯
 
 ---
